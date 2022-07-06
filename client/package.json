@@ -2,10 +2,10 @@
   "name": "JATE",
   "scripts": {
     "dev": "webpack-dev-server",
-    "build": "webpack --mode production",
+    "build": "webpack",
     "start": "webpack --watch"
   },
-  "author": "2U",
+  "author": "SabotMBT",
   "license": "UNLICENSED",
   "devDependencies": {
     "@babel/core": "^7.15.0",
