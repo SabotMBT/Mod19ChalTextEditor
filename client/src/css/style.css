@@ -1,4 +1,5 @@
-/* app shell CSS */
+/* app shell CSS  */
+/* test line */
 :root {
   --primary: #31a9e1;
   --gray: #ececec;
@@ -8,11 +9,15 @@
   --navbar-height: 50px;
 }
 
+.CodeMirror {
+  height: 100% !important;
+}
+
 body {
   margin: 0;
   background-color: var(--monoaki);
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
-    Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
 }
 
